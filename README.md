@@ -1,4 +1,8 @@
-# Hubot: hubot-chef
+# This has been moved to https://github.com/hubot-scripts/hubot-chef
+
+
+
+# Hubot: hubot-chef 
 
 [![Build Status](https://travis-ci.org/jjasghar/hubot-chef.png?branch=master)](https://travis-ci.org/jjasghar/hubot-chef)
 
